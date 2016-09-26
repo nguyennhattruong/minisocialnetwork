@@ -1,0 +1,1 @@
+<span class="btn btn-primary" data-userid="<?php echo $content ?>" data-useract="addfriend">Add Friend</span>

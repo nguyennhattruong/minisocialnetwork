@@ -1,0 +1,1 @@
+<span href="#" class="btn btn-primary" data-useract="acceptrequest" data-requestid="<?php echo $content ?>"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Accept</span>

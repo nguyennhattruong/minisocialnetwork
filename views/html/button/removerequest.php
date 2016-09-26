@@ -1,0 +1,1 @@
+<span href="#" class="btn btn-danger" data-useract="removerequest" data-requestid="<?php echo $content ?>"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Delete</span>

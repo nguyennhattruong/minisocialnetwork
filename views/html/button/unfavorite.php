@@ -1,0 +1,1 @@
+<span class="btn btn-default" data-userid="<?php echo $content ?>" data-useract="unfavorite">Unfavorite</span>

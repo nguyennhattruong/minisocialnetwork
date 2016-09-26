@@ -1,0 +1,1 @@
+<span class="btn btn-danger" data-userid="<?php echo $content ?>" data-useract="confirm">Comfirm</span>
